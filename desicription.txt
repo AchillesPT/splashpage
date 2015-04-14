@@ -1,0 +1,19 @@
+People get hurt all the time. Keeping patients motivated throughout the rehabilitation process and ensuring that they have the proper guidance after they leave the office is a concern for physical therapists. Without that motivation and guidance, patients don't recover.
+
+So, how do we help PT's serve their patients, while guiding and motivating patients to get better faster?
+
+Enter Achilles
+
+Consistent Data Collection
+- More reliable and more often
+- amplifies the relationship between PT's and patients
+
+Data Analytics
+- Analyze pain logs, feedback, exericse routine completion
+- Empower PT's to better serve their patients
+
+Guidance and Motivation
+- Run by PT's for Patients
+- An elegant UI with gameified functionality
+
+Let's get better, faster.
